@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name:  Newifi-D1
+name:  XG-040G
 
 on:
   repository_dispatch:
