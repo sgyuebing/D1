@@ -1,0 +1,22 @@
+
+config service 'pptpd'
+	option localip '192.168.0.1'
+	option remoteip '192.168.0.100-110'
+	option enabled '1'
+	option mppe '0'
+
+config users
+	option enabled '1'
+	option username '123'
+	option password '123'
+
+config users
+	option enabled '1'
+	option password '123'
+	option username 'x86'
+
+config users
+	option enabled '1'
+	option username 'mate30'
+	option password '123'
+
